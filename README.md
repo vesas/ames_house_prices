@@ -1,4 +1,4 @@
-# Housing price prediction
+# House price prediction
 
 Code for participating in this kaggle competition where the goal is to predict house prices. https://www.kaggle.com/c/house-prices-advanced-regression-techniques
 
